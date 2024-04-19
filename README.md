@@ -42,8 +42,8 @@ If there is a translated resource in `po/` directory, it can be specified throug
 git clone https://github.com/rust-lang/rust-by-example
 cd rust-by-example
 cargo install mdbook
-MDBOOK_BOOK__LANGUAGE=ja mdbook build
-MDBOOK_BOOK__LANGUAGE=ja mdbook serve
+MDBOOK_BOOK__LANGUAGE=ko mdbook build
+MDBOOK_BOOK__LANGUAGE=ko mdbook serve
 ```
 
 ## Contributing
